@@ -1,0 +1,12 @@
+2021-10-03 14:50:22,140 INFO c.d.t.u.HibernateUtil [main] Success generate sessionFactory =org.hibernate.internal.SessionFactoryImpl@5aae8eb5
+2021-10-03 14:50:22,142 INFO c.d.t.u.HibernateUtil [main] Success generate sessionFactory, hashcode=1521389237
+2021-10-03 14:50:22,242 DEBUG c.d.t.u.HibernateUtil [main] debug appears???
+2021-10-03 14:50:22,242 INFO c.d.t.u.HibernateUtil [main] The end
+2021-10-04 10:47:21,878 INFO c.d.t.u.HibernateUtil [main] Success generate sessionFactory =org.hibernate.internal.SessionFactoryImpl@5aae8eb5
+2021-10-04 10:47:21,880 INFO c.d.t.u.HibernateUtil [main] Success generate sessionFactory, hashcode=1521389237
+2021-10-04 10:47:21,982 INFO c.d.t.u.HibernateUtil [main] The end
+2021-10-05 14:41:45,244 ERROR c.d.t.u.HibernateUtil [main] Exception while initializing hibernate util..., error=Associations marked as mappedBy must not define database mappings like @JoinTable or @JoinColumn: com.devmountain.training.entity.Student.projects
+2021-10-05 14:53:44,708 ERROR c.d.t.u.HibernateUtil [main] Exception while initializing hibernate util..., error=Associations marked as mappedBy must not define database mappings like @JoinTable or @JoinColumn: com.devmountain.training.entity.Student.projects
+2021-10-05 14:55:55,402 INFO c.d.t.u.HibernateUtil [main] Success generate sessionFactory =org.hibernate.internal.SessionFactoryImpl@656922a0
+2021-10-05 14:55:55,404 INFO c.d.t.u.HibernateUtil [main] Success generate sessionFactory, hashcode=1701388960
+2021-10-05 14:55:55,482 INFO c.d.t.u.HibernateUtil [main] The end
