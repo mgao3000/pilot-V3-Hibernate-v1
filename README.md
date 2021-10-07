@@ -9,7 +9,8 @@ relationship between STUDENT and PROJECT is MANY to MANY.
 In this Version, the sample code of the Pilot project shows the basic usage on 
 handling one-to-many and many-to-many relationships. The mappings among the three 
 Java classes are not the best practice promoted by Hibernate guys (E.g. 
-CascadeType.ALL, Cascade.Remove and FetchType.EAGER). The relationships are 
+CascadeType.ALL, Cascade.Remove and FetchType.EAGER, I just want to show how much 
+Hibernate can do for us). The relationships are 
 mapped as bidirectional relationships. In the next version, we will refactor and 
 optimize the code to implement those relationships.
 
